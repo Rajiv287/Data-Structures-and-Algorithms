@@ -1,3 +1,15 @@
+/*
+Question: Binomial Coefficient
+
+Approach:
+1. Input n and r
+2. Calculate factorial of n, r, and n-r
+3. Use formula nCr = n! / (r! * (n-r)!)
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP to find the binomial cofficient for given n & s 
 
 #include<iostream>

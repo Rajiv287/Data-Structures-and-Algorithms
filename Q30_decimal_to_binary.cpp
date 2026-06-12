@@ -1,3 +1,15 @@
+/*
+Question: Decimal to Binary
+
+Approach:
+1. Input decimal number
+2. Repeatedly divide by 2 and store remainders
+3. Build and print the binary number
+
+Time Complexity: O(log n)
+Space Complexity: O(1)
+*/
+
 // WAP for decimal to binary 
 #include <iostream>
 using namespace std;

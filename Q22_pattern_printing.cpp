@@ -1,3 +1,15 @@
+/*
+Question: Right-Aligned Star Triangle Pattern
+
+Approach:
+1. Input number of rows
+2. Print spaces before stars in each row
+3. Print increasing stars after spaces
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP to print pattern
 //         *
 //       * *

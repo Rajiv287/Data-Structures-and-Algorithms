@@ -1,3 +1,15 @@
+/*
+Question: Max Subarray Sum
+
+Approach:
+1. Choose starting index
+2. Choose ending index
+3. Traverse from start to end for each subarray
+
+Time Complexity: O(n^3)
+Space Complexity: O(1)
+*/
+
 // WAP max subarray sum 
 #include<iostream>
 using namespace std;

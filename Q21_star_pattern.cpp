@@ -1,3 +1,15 @@
+/*
+Question: Hollow Square Star Pattern
+
+Approach:
+1. Input size of square
+2. Use nested loops for rows and columns
+3. Print star on border and space inside
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP for * * * * * 
 //         *       *
 //         *       *

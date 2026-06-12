@@ -1,3 +1,15 @@
+/*
+Question: Binary Search
+
+Approach:
+1. Find mid
+2. Compare target with mid
+3. Search in left/right half
+
+Time Complexity: O(log n)
+Space Complexity: O(1)
+*/
+
 // WAP for binary search 
 #include<iostream>
 using namespace std;

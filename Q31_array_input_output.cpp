@@ -1,3 +1,15 @@
+/*
+Question: Array Input and Output
+
+Approach:
+1. Take or store array elements
+2. Traverse array using loop
+3. Print each element
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP to output and input of array
 #include<iostream>
 using namespace std;

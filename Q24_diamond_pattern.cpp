@@ -1,3 +1,15 @@
+/*
+Question: Diamond Star Pattern
+
+Approach:
+1. Input number of rows for upper half
+2. Print spaces and stars for upper pyramid
+3. Print spaces and stars for lower pyramid
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP for diamond pattern problem
 
 #include<iostream>

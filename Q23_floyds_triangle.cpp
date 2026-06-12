@@ -1,3 +1,15 @@
+/*
+Question: Floyd's Triangle
+
+Approach:
+1. Input number of rows
+2. Keep a counter starting from 1
+3. Print increasing count values in triangle form
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP Floyd's Triangle
 // 1 
 // 2 3

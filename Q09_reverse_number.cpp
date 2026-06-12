@@ -1,3 +1,15 @@
+/*
+Question: Reverse a Number
+
+Approach:
+1. Input a number
+2. Extract each digit from the end
+3. Build reversed number using rev = rev * 10 + digit
+
+Time Complexity: O(d), where d is the number of digits
+Space Complexity: O(1)
+*/
+
 #include<iostream>
 using namespace std;
 

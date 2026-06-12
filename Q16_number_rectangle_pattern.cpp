@@ -1,3 +1,15 @@
+/*
+Question: Number Rectangle Pattern
+
+Approach:
+1. Input number of rows and columns
+2. Use nested loops for rows and columns
+3. Print row number in each column
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP for 1 1 1 1
 //         2 2 2 2
 //         3 3 3 3

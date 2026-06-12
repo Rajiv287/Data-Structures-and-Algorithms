@@ -1,3 +1,15 @@
+/*
+Question: Factorial Using Function
+
+Approach:
+1. Input a number
+2. Call factorial function
+3. Multiply values from 1 to n and print result
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP to print the factorial of a number n 
 #include<iostream>
 using namespace std;

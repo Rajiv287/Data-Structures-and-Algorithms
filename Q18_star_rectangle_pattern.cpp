@@ -1,3 +1,15 @@
+/*
+Question: Inverted Star Triangle Pattern
+
+Approach:
+1. Input number of rows
+2. Start from n stars and decrease every row
+3. Print stars using nested loops
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 // WAP for * * * *
 //         * * *
 //         * *

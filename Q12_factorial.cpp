@@ -1,3 +1,15 @@
+/*
+Question: Factorial of a Number
+
+Approach:
+1. Input a number
+2. Multiply numbers from 1 to n
+3. Print the factorial
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP to find the Factorial of a number entered by the user.
 #include<iostream>
 using namespace std;

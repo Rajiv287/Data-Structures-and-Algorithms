@@ -1,3 +1,15 @@
+/*
+Question: Armstrong Number for 3 Digits
+
+Approach:
+1. Input a 3-digit number
+2. Find each digit and calculate sum of cubes
+3. Compare the sum with the original number
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 // For any 3digit number check whether it is an Armstrong number or not.Armstrong number is a number that is equal to the sum of cubes of its digits.Eg: 371 is an armstrong number 
 #include <iostream>
 using namespace std;

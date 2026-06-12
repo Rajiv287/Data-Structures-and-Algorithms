@@ -1,3 +1,15 @@
+/*
+Question: Linear Search
+
+Approach:
+1. Traverse array from start to end
+2. Compare each element with key
+3. Print index if key is found
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP for linear search 
 #include<iostream>
 using namespace std;

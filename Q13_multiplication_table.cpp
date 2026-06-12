@@ -1,3 +1,15 @@
+/*
+Question: Multiplication Table
+
+Approach:
+1. Input a number
+2. Run loop from 1 to 10
+3. Print number multiplied by each loop value
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 // WAP to print the multiplication table of a number,entered by the user
 #include<iostream>
 using namespace std;

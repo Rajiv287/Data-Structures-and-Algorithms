@@ -1,3 +1,15 @@
+/*
+Question: Sum of Digits
+
+Approach:
+1. Input a number
+2. Extract digits using modulo and division
+3. Add each digit and print the sum
+
+Time Complexity: O(d), where d is the number of digits
+Space Complexity: O(1)
+*/
+
 // WAP to print the sum of digits of a number using while loop
 
 #include<iostream> 

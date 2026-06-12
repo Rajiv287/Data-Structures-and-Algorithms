@@ -1,3 +1,15 @@
+/*
+Question: Sum of Odd Digits
+
+Approach:
+1. Input a number
+2. Extract each digit using modulo
+3. Add only odd digits and print the sum
+
+Time Complexity: O(d), where d is the number of digits
+Space Complexity: O(1)
+*/
+
 // WAP to print the sum of odd digits of a number using while loop 
 #include<iostream>
 using namespace std;

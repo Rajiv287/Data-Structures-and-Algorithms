@@ -1,3 +1,15 @@
+/*
+Question: Armstrong Number
+
+Approach:
+1. Input a number
+2. Extract each digit and add cube of digit
+3. Compare the sum with the original number
+
+Time Complexity: O(d), where d is the number of digits
+Space Complexity: O(1)
+*/
+
 // WAP to input a number and check whether the number is an Armstrong number or not
 #include<iostream>
 using namespace std; 

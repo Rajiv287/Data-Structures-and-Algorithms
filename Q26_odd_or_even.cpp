@@ -1,3 +1,15 @@
+/*
+Question: Odd or Even Number
+
+Approach:
+1. Input a number
+2. Check remainder when divided by 2
+3. Print even if remainder is 0, otherwise odd
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 // WAP to print if a number is odd or even.
 
 #include<iostream>

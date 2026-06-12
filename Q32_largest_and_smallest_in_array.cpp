@@ -1,3 +1,15 @@
+/*
+Question: Largest and Smallest in Array
+
+Approach:
+1. Traverse the array
+2. Compare each element with current largest and smallest
+3. Print final largest and smallest values
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP to find largest value in arrray and for smallest also
 #include<iostream>
 using namespace std;

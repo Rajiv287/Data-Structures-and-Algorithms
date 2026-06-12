@@ -1,3 +1,15 @@
+/*
+Question: Reverse an Array
+
+Approach:
+1. Keep one pointer at start and one at end
+2. Swap start and end elements
+3. Move pointers toward center until array is reversed
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 // WAP for reverse an array by using extra space & with using extra space 
 
 

@@ -1,3 +1,15 @@
+/*
+Question: Alphabet Triangle Pattern
+
+Approach:
+1. Input number of rows
+2. Start from character A
+3. Print next alphabet in triangle form
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
 #include<iostream>
 using namespace std;
 

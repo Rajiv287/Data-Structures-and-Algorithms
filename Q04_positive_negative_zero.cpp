@@ -1,3 +1,15 @@
+/*
+Question: Positive, Negative, or Zero
+
+Approach:
+1. Input a number
+2. Compare it with zero
+3. Print whether it is positive, negative, or zero
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 // WAP to get a number from the user and print whether it's positive,negative or zero
 #include <iostream>
 using namespace std;

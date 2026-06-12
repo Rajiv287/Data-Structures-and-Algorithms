@@ -1,3 +1,15 @@
+/*
+Question: Product of Two Numbers
+
+Approach:
+1. Input two numbers
+2. Pass them to product function
+3. Return and print their multiplication
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 // WAP to find the product of 2 numbers a & b
 
 #include<iostream>
