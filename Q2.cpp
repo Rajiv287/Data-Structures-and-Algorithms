@@ -1,0 +1,13 @@
+// Enter cost of 3items from the user(usingfloatdatatype)- a pencil,a pen and an eraser.You have to out put the total cost of the items back to the user as their bill , You can also try adding 18% GST tax to the items in the bill as anadvanced problem.
+#include<iostream>
+using namespace std;
+int main (){
+   float pencil,pen,eraser;
+   cout<<"enter the price the pencil , pen , eraser"<<endl;
+   cin>>pencil>>pen>>eraser;
+   float total = pencil + pen + eraser;
+   cout<<"your total bill is = "<< total<<endl ;
+   cout<<"And your bill with gst is equal to "<< ((total*18)/100)+total;
+
+    return 0;
+}
