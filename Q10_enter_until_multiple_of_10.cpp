@@ -21,7 +21,6 @@ int main (){
     while(n%10!=0){
         cout<<"enter another number"<<endl;
         cin>>n;
-        cout<<"it is multiple of 10";
     }
 cout<<"it is multiple of 10";
     return 0;

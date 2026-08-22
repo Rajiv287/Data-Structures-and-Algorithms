@@ -32,7 +32,7 @@ int binarySearch(int array[], int n,int key){
 int main(){
     int array[]={1,2,3,4,5,6,7};
     int n= sizeof(array)/sizeof(int);
-    int key = 11;
+    int key = 5;
     cout<<binarySearch(array,n,key)<<endl;
 
     return 0;
